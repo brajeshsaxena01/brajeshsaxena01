@@ -1,7 +1,12 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://brajeshsaxena01.io)
 
 <h1 align="center">Hi 👋, I'm Brajesh Saxena</h1>
-<h3 align="center">A Passionate Full Stack Developer From India</h3>
+<!-- <h3 align="center">A Passionate Full Stack Developer From India</h3> -->
+<p>A Full Stack Developer with over 3 years of experience crafting scalable and high-performance web applications using the MERN stack, AWS, and Docker. My focus is on building secure APIs, optimizing cloud infrastructure, and delivering seamless user experiences through clean and efficient code.
+
+At Visioapps Technology, I led the development of a Voice SDK Management Platform and successfully deployed the OpenAI Whisper STT model, resulting in improved infrastructure efficiency and a 25% reduction in downtime. In my personal time, I developed a comprehensive MERN-based e-commerce platform with Stripe payment integration, demonstrating initiative and full project ownership from design to deployment.
+
+I’m a Masai School–certified Full Stack Web Developer with additional hands-on experience in cloud and DevOps. Driven by curiosity and innovation, I’m passionate about transforming real-world challenges into impactful digital solutions.</p>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2nKSTDDekOgAAAAS/coding-kira.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brajeshsaxena01&label=Profile%20views&color=0e75b6&style=flat" alt="brajeshsaxena01" /> </p>
